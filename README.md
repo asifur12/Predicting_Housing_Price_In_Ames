@@ -18,6 +18,9 @@ Real estate pricing is a complex subject influenced by multiple factors, such as
 1. What are the key determinants of house prices in Ames, Iowa?
 2. How do different statistical techniques compare in predicting house prices?
 3. What role do categorical variables such as neighborhood and house style play in price variation?
+4. How does the price of houses vary by area and neighborhood?
+5. What impact do structural features like number of rooms, total SF on pricing treands?
+6. Are there seasonal treands in house pricing within the dataset?
 
 The project leverages regression models, classification techniques, and resampling methods to build predictive models and interpret significant factors influencing house prices. The analysis will be useful for real estate professionals, investors, and policymakers in making data-driven decisions.
 
