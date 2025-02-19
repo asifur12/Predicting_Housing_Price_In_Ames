@@ -1,4 +1,4 @@
-# ** MAT 455: Data Analysis Project
+# MAT 455: Data Analysis Project
 ## **House Prices in Ames, Iowa**
 ### **Spring 2025**
 #### **Student Name: Asifur Rahman **
