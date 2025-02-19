@@ -69,5 +69,4 @@ By applying appropriate statistical techniques, this project aims to develop a r
 - Compare different modeling approaches and determine the best predictive model.
 - Interpret and present findings in a meaningful way.
 
-This document forms the first part of the research project due on **February 22, 2025**.
 
